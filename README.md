@@ -1,2 +1,2 @@
-# 04_BattleTank
-simple ue4 tank game
+# BattleTank
+Simple UE4 tank game
